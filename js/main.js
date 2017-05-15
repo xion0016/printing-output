@@ -30,6 +30,8 @@ last_name = "Xiong";
 var email ;
 email = "xion0016@algonquinlive.com";
 
-var output ;
+var output = "My name is " + (first_name) + " " + (last_name) + "." + " You can contact me at " + (email) + "." ;
 
 alert ("My name is " + (first_name) + " " + (last_name) + "." + " You can contact me at " + (email) + ".");
+
+alert (output);
