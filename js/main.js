@@ -28,7 +28,7 @@ var last_name ;
 last_name = "Xiong";
 
 var email ;
-email = "xiongmanyi@gmail.com";
+email = "xion0016@algonquinlive.com";
 
 var output ;
 
