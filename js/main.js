@@ -34,4 +34,4 @@ var output = "My name is " + (first_name) + " " + (last_name) + "." + " You can 
 
 alert ("My name is " + (first_name) + " " + (last_name) + "." + " You can contact me at " + (email) + ".");
 
-alert (output);
+alert (output)
